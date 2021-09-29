@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ashutosh-Tester
-- 👀 I’m interested in python programming language
+- 👀 I’m interested in Python Programming Language
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Python Projects
 <!---
